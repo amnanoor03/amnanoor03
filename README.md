@@ -6,7 +6,7 @@
 ###
 - 🌱 I’m currently learning Generative AI NLP , Computer vision
 
-- 👨‍💻 All of my projects are available at [https://github.com/amnanoor3]
+- 👨‍💻 All of my projects are available at [https://github.com/amnanoor03]
 
 - 💬 Ask me about AI
 
@@ -15,7 +15,7 @@
 - ⚡ Fun fact I am lazy ambitious Girl
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amna-noor-3414172ba//) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amnanoor24//) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
