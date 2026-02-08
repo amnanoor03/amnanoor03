@@ -37,13 +37,12 @@ I specialise in building clean data architectures and automated ETL pipelines. I
 ## 📈 My GitHub Stats
 
 <p align="left">
-  https://github-readme-stats.vercel.app/api/top-langs/?username=amnanoor03&layout=compact&theme=radical&cache_seconds=1800
+  <img src="https://github-readme-stats.vercel.app/api?username=amnanoor03&show_icons=true&theme=radical" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnanoor03&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnanoor03&layout=compact&theme=radical" />
 </p>
-
 ## 📫 Let's Connect!
 * **LinkedIn:** [www.linkedin.com/in/amnanoor24](https://www.linkedin.com/in/amnanoor24)
 * **Email:** amnanoor4539@gmail.com
