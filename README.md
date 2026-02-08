@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Amna%20Noor&fontSize=90" />
 </p>
+<div align="center">
 # Hi, I'm Amna! 👋 
 
 ### 🚀 Data Engineer in the making | Python & SQL Specialist
@@ -43,4 +44,5 @@ I specialize in building clean data architectures and automated ETL pipelines. I
 
 ### 📫 Let's Connect!
 * **LinkedIn:** [www.linkedin.com/in/amnanoor24]
-* **Email:** [amnanoor4539@gmail.com]
+* **Email:** [amnanoor4539@gmail.com] 
+</div>
