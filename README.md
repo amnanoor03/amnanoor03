@@ -14,7 +14,7 @@ I specialize in building clean data architectures and automated ETL pipelines. I
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+</div>
 ---
 
 ### 🌟 Featured Projects
@@ -45,4 +45,3 @@ I specialize in building clean data architectures and automated ETL pipelines. I
 ### 📫 Let's Connect!
 * **LinkedIn:** [www.linkedin.com/in/amnanoor24]
 * **Email:** [amnanoor4539@gmail.com] 
-</div>
