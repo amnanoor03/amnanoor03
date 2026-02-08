@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=eb3471&height=200&section=header&text=Amna%20Noor&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3670A0&height=200&section=header&text=Amna%20Noor&fontSize=90" />
 </p>
 
 <div align="center">
@@ -10,7 +10,9 @@
 I specialise in building clean data architectures and automated ETL pipelines. I’m passionate about turning raw data into structured, high-performance systems.
 
 ### 🧰 My Tech Stack
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
