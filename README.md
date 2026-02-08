@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Amna%20Noor&fontSize=90" />
 </p>
 <div align="center">
-# Hi, I'm Amna! 👋 
+  <h1 align="center">Hi, I'm Amna! 👋</h1>
 
 ### 🚀 Data Engineer in the making | Python & SQL Specialist
 I specialize in building clean data architectures and automated ETL pipelines. I’m passionate about turning raw data into structured, high-performance systems.
