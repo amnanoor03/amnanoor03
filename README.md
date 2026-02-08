@@ -34,9 +34,14 @@ I specialise in building clean data architectures and automated ETL pipelines. I
 * **Tech:** Python, Pandas, SQLAlchemy, PostgreSQL.
 * **Key Achievement:** Successfully managed the "Extract, Transform, Load" process, moving data from local CSVs into a relational database.
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amnanoor03&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="amnanoor03 trophies" />
+## 📈 My GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=amnanoor03&show_icons=true&theme=radical&hide_border=true" alt="Amna's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnanoor03&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 📫 Let's Connect!
