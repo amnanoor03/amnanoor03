@@ -37,11 +37,11 @@ I specialise in building clean data architectures and automated ETL pipelines. I
 ## 📈 My GitHub Stats
 
 <p align="left">
-  https://github-readme-stats.vercel.app/api/top-langs/?username=amnanoor03&layout=compact&theme=radical&cache_seconds=1800
+  !https://github-readme-stats.vercel.app/api/top-langs/?username=amnanoor03&layout=compact&theme=radical&cache_seconds=1800
 </p>
 
 <p align="left">
-  <img src=!"https://github-readme-stats.vercel.app/api/top-langs/?username=amnanoor03&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnanoor03&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 📫 Let's Connect!
