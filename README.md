@@ -37,7 +37,7 @@ I specialise in building clean data architectures and automated ETL pipelines. I
 ## 📈 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amnanoor03&show_icons=true&theme=radical&hide_border=true" alt="Amna's GitHub Stats" />
+  https://github-readme-stats.vercel.app/api/top-langs/?username=amnanoor03&layout=compact&theme=radical&cache_seconds=1800
 </p>
 
 <p align="left">
