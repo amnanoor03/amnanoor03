@@ -6,7 +6,7 @@
 
 # Hi, I'm Amna! 👋
 
-### 🚀 Data Engineer in the making | Python & SQL Specialist
+### 🚀 Data Engineer | Python & SQL | Building ETL Pipelines and Data Models
 I specialise in building clean data architectures and automated ETL pipelines. I’m passionate about turning raw data into structured, high-performance systems.
 
 ### 🧰 My Tech Stack
