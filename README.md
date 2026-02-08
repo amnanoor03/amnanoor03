@@ -24,12 +24,12 @@ I specialise in building clean data architectures and automated ETL pipelines. I
 * **Tech:** SQL, PostgreSQL, PyCharm, Git.
 * **Key Achievement:** Engineered surrogate keys and enforced data integrity constraints to ensure 100% record uniqueness.
 
-#### 🌦️ [Weather Data ETL Pipeline](https://github.com/amnanoor03/Weather-Data-ETL)
+#### 🌦️ [Weather Data ETL Pipeline](https://github.com/amnanoor03/weather-data-pipeline)
 * **The Goal:** Developed an automated Python pipeline to extract real-time weather data from OpenWeatherMap API.
 * **Tech:** Python, Requests, JSON, Error Handling.
 * **Key Achievement:** Built a robust system that cleans and structures raw API responses into a format ready for analysis.
 
-#### 🛍️ [Retail Data Pipeline (ETL)](https://github.com/amnanoor03/Retail-Pipeline-ETL)
+#### 🛍️ [Retail Data Pipeline (ETL)]()
 * **The Goal:** Created a bridge between Python and PostgreSQL to automate the flow of retail transactions.
 * **Tech:** Python, Pandas, SQLAlchemy, PostgreSQL.
 * **Key Achievement:** Successfully managed the "Extract, Transform, Load" process, moving data from local CSVs into a relational database.
