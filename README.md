@@ -41,7 +41,7 @@ I specialise in building clean data architectures and automated ETL pipelines. I
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnanoor03&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img !src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnanoor03&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 📫 Let's Connect!
