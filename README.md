@@ -7,7 +7,6 @@
 ### 🚀 Data Engineer in the making | Python & SQL Specialist
 I specialize in building clean data architectures and automated ETL pipelines. I’m passionate about turning raw data into structured, high-performance systems.
 
----
 
 ### 🧰 My Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
